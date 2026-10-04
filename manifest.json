@@ -9,11 +9,6 @@
       "size": 41
     },
     {
-      "path": "config/fabric/indigo-renderer.properties",
-      "sha1": "d88663ca8bd59849e104b37108f0fa9fc77e3fa1",
-      "size": 291
-    },
-    {
       "path": "config/sodium-fingerprint.json",
       "sha1": "0a63ba6cc647adfa3a6cf09e0b53cd710858d49d",
       "size": 427
@@ -32,11 +27,6 @@
       "path": "config/zoomify.json",
       "sha1": "d9a9878c8753f2580a0b43eb6afd7c6dfec31902",
       "size": 708
-    },
-    {
-      "path": "distro.json",
-      "sha1": "93eb6b494f89e6d43de568b57dad71285f244d52",
-      "size": 1607
     },
     {
       "path": "mods/appleskin-fabric-mc1.21-3.0.6.jar",
@@ -339,11 +329,6 @@
       "size": 82210
     },
     {
-      "path": "mods/x",
-      "sha1": "ba8ab5a0280b953aa97435ff8946cbcbb2755a27",
-      "size": 2
-    },
-    {
       "path": "mods/xaerominimap-fabric-1.21.1-26.5.0.jar",
       "sha1": "b9cec1acb286b6d7c05759c0c1e4b8a04f28d785",
       "size": 2233763
@@ -362,11 +347,6 @@
       "path": "options.txt",
       "sha1": "bd2a3780f3ed685a372d64592ad4fdc31e3882b0",
       "size": 8332
-    },
-    {
-      "path": "profiles/main.json",
-      "sha1": "d0838c4d3ac643e373046c861ffd0a1dd6ba70a6",
-      "size": 151
     },
     {
       "path": "resourcepacks/inasio server 2 resource pack.zip",

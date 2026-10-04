@@ -1,5 +1,5 @@
 {
-  "version": "202610042205",
+  "version": "202610042243",
   "minecraft": "1.21.1",
   "fabric": "0.19.5",
   "files": [
@@ -361,8 +361,7 @@
     {
       "path": "options.txt",
       "sha1": "bd2a3780f3ed685a372d64592ad4fdc31e3882b0",
-      "size": 8332,
-      "keep": true
+      "size": 8332
     },
     {
       "path": "profiles/main.json",
@@ -377,8 +376,7 @@
     {
       "path": "servers.dat",
       "sha1": "69783f32a949135cf506b0286e0f51a830532452",
-      "size": 61871,
-      "keep": true
+      "size": 61871
     }
   ]
 }

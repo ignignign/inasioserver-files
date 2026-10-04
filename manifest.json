@@ -1,0 +1,9 @@
+{
+  "name": "inasio server 2",
+  "gameVersion": "1.21.1",
+  "loader": {
+    "type": "fabric",
+    "version": "0.19.5"
+  },
+  "files": []
+}

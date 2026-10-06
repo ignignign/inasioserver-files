@@ -1,12 +1,12 @@
 {
-  "version": "1.06.10",
+  "version": "1.06.10.1",
   "minecraft": "1.21.1",
   "fabric": "0.19.5",
   "files": [
     {
       "path": "config/autojoin.txt",
-      "sha1": "872c0b0c955cf9f00365720fb1e352f276953824",
-      "size": 41
+      "sha1": "f8f2d69d1af216ceaff69d8a34dc5945532eddab",
+      "size": 17
     },
     {
       "path": "mods/appleskin-fabric-mc1.21-3.0.6.jar",
@@ -330,8 +330,8 @@
     },
     {
       "path": "servers.dat",
-      "sha1": "69783f32a949135cf506b0286e0f51a830532452",
-      "size": 61871
+      "sha1": "18e3e5cf008f5811a12536a15de651e436704072",
+      "size": 77132
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "version": "202610042243",
+  "version": "1.06.10",
   "minecraft": "1.21.1",
   "fabric": "0.19.5",
   "files": [
@@ -7,26 +7,6 @@
       "path": "config/autojoin.txt",
       "sha1": "872c0b0c955cf9f00365720fb1e352f276953824",
       "size": 41
-    },
-    {
-      "path": "config/sodium-fingerprint.json",
-      "sha1": "0a63ba6cc647adfa3a6cf09e0b53cd710858d49d",
-      "size": 427
-    },
-    {
-      "path": "config/sodium-mixins.properties",
-      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
-      "size": 258
-    },
-    {
-      "path": "config/sodium-options.json",
-      "sha1": "3340dc58331eb79197766f2a5b3fa8b0c3939c99",
-      "size": 759
-    },
-    {
-      "path": "config/zoomify.json",
-      "sha1": "d9a9878c8753f2580a0b43eb6afd7c6dfec31902",
-      "size": 708
     },
     {
       "path": "mods/appleskin-fabric-mc1.21-3.0.6.jar",
@@ -342,11 +322,6 @@
       "path": "mods/zoomify-2.15.2+1.21.1.jar",
       "sha1": "9ec9c47e1d3465ea0cbd595b6d9d12227239c9a6",
       "size": 872937
-    },
-    {
-      "path": "options.txt",
-      "sha1": "bd2a3780f3ed685a372d64592ad4fdc31e3882b0",
-      "size": 8332
     },
     {
       "path": "resourcepacks/inasio server 2 resource pack.zip",

@@ -1,5 +1,5 @@
 {
-  "version": "1.06.10.1",
+  "version": "1.07.10",
   "minecraft": "1.21.1",
   "fabric": "0.19.5",
   "files": [
@@ -32,6 +32,11 @@
       "path": "mods/balm-fabric-1.21.1-21.0.66.jar",
       "sha1": "37266aadaed39205f4a3844930e76d2eebb866a4",
       "size": 805265
+    },
+    {
+      "path": "mods/BetterPingDisplay-Fabric-1.21.1-1.1.1.jar",
+      "sha1": "534ba30ec8a7ea23048a507d02a651b6ddcaf523",
+      "size": 14850
     },
     {
       "path": "mods/bookshelf-fabric-1.21.1-21.1.81.jar",

@@ -1,5 +1,5 @@
 {
-  "version": "1.15.10",
+  "version": "1.18.10",
   "minecraft": "1.21.1",
   "fabric": "0.19.5",
   "files": [
@@ -335,8 +335,8 @@
     },
     {
       "path": "servers.dat",
-      "sha1": "2cd28ae1eb4d09b14d54350ffff7c76105177629",
-      "size": 77083
+      "sha1": "ab3257d16a42d3ef0ca62f4cf6d36ed8293f4837",
+      "size": 77078
     }
   ]
 }

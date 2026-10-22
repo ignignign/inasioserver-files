@@ -1,12 +1,12 @@
 {
-  "version": "202610200508",
+  "version": "1.22.10",
   "minecraft": "1.21.1",
   "fabric": "0.19.5",
   "files": [
     {
-      "path": "config/autojoin.txt",
-      "sha1": "f8f2d69d1af216ceaff69d8a34dc5945532eddab",
-      "size": 17
+      "path": "config/inasio-autoconnect.json",
+      "sha1": "2d97e5db8790566a6f90620031557349cfbebc21",
+      "size": 83
     },
     {
       "path": "mods/appleskin-fabric-mc1.21-3.0.6.jar",
@@ -152,6 +152,11 @@
       "path": "mods/ImmediatelyFast-Fabric-1.6.14+1.21.1.jar",
       "sha1": "023805be7d701b9769e987449d217c557de5f848",
       "size": 340166
+    },
+    {
+      "path": "mods/inasio-autoconnect-1.0.0.jar",
+      "sha1": "de001d7af7aea6bcf5a8b1ee24427437ddb54177",
+      "size": 12260
     },
     {
       "path": "mods/inmis-2.8.2-1.21.1.jar",
@@ -335,8 +340,8 @@
     },
     {
       "path": "servers.dat",
-      "sha1": "b3a20cd4105c0161227edcb423c26e25ea44c33a",
-      "size": 77080
+      "sha1": "844ff35a64dd07581348967c135761e95fcb907e",
+      "size": 77081
     }
   ]
 }
